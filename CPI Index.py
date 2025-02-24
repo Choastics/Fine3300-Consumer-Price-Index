@@ -115,7 +115,7 @@ highest_avg_province = None
 
 # Loop through each jurisdiction
 for juris in jurisdictions:
-    # Skip the Canada
+    # Skip Canada
     if juris == "Canada":
         continue
     
